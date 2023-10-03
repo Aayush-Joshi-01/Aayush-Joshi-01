@@ -11,3 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Aayush-Joshi-01&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aayush-Joshi-01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-Joshi-01&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Aayush-Joshi-01&label=Profile%20Views&icon=3&pretty=false)](https://visitcount.itsvg.in)
